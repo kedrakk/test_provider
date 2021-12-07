@@ -15,7 +15,7 @@ class FontTestPage extends StatelessWidget {
       body: Column(
         mainAxisAlignment: MainAxisAlignment.center,
         children: [
-        Text("This is the summer",style: GoogleFonts.roboto(fontSize: 16),),
+        Text("This is the summer of course",style: GoogleFonts.roboto(fontSize: 16),),
         Text(text,style: GoogleFonts.roboto(fontSize: 16),),
       ],),
     );
